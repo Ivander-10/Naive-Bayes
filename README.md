@@ -1,1 +1,3 @@
-# Naive-Bayes
+# TUGAS KECERDASAN BUATAN // Naive Bayes
+
+IVAN DER GHIFRA // G1A024087
